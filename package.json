@@ -1,0 +1,21 @@
+{
+  "name": "webpack-config-generate",
+  "version": "0.0.2",
+  "description": "choose to generate webpack config file and dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wcg": "./lib/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuben/webpack-config-generate"
+  },
+  "dependencies": {
+    "inquirer": "~3.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
