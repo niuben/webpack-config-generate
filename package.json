@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "wcg": "./lib/index"
+    "generate": "./lib/index"
   },
   "repository": {
     "type": "git",
